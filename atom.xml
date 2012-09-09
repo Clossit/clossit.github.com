@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Clossit.github.com/atom.xml" rel="self"/>
   <link href="http://Clossit.github.com/"/>
-  <updated>2012-09-08T23:31:37-04:00</updated>
+  <updated>2012-09-08T23:34:34-04:00</updated>
   <id>http://Clossit.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Include Current Day by Default in Google Analytics]]></title>
+    <link href="http://Clossit.github.com/blog/2012/09/08/include-current-day-by-default-in-google-analytics/"/>
+    <updated>2012-09-08T23:33:00-04:00</updated>
+    <id>http://Clossit.github.com/blog/2012/09/08/include-current-day-by-default-in-google-analytics</id>
+    <content type="html"><![CDATA[<p>HereÎéÎ÷s a useful script for all you Google Analytics addicts. The first thing I find myself doing whenever I go to the Google Analytics dashboard is clicking the calendar and setting the date range to include the current day. Very annoying to do. I whipped up a quick script to automatically change the date, all the ones out there seem to have broken since the new dashboard update.</p>
+
+<p> Download
+ Source</p>
+
+<p>  Note: Chrome has a wonderful new annoyance feature that does not allow installing extensions or scripts from anywhere aside from their Extension Gallery. YouÎéÎ÷ll have to Save As the script and drag it to your chrome://chrome/extensions settings tab.</p>
+]]></content>
+  </entry>
   
 </feed>
